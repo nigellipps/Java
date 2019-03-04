@@ -84,7 +84,7 @@ public class Game extends JComponent implements ActionListener, MouseMotionListe
         if (score > Best) {
             Best = score;
             try {		//plays the sound every time the ball scores
-            	String url = "file:C:/Users/nigellipps/eclipse-workspace/A2/src/one1.wav";
+            	String url = "/*add the one1.wav file path here*/";	//add the file path the one1.wav here
             		PlaySound.myPlay(url); 
             		System.out.println("df");
             		youLose = false;
