@@ -1,4 +1,7 @@
- import javax.swing.JOptionPane;
+//This file does not compile with the project 
+//SEPERATE
+
+import javax.swing.JOptionPane;
 
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
