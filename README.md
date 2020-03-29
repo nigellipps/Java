@@ -3,8 +3,16 @@ A Java program with all the functions of a checking account and a game of Pong.
 Demonstrates the use of data bases and graphics.
 Follow these directions for the game:
 
-1) Download IntelliJ Idea at: https://www.jetbrains.com/idea/download/#section=mac
+Clone the repository to your Desktop: 
 
-2) Open IntelliJ and click "Ant Build" on the right side of the window
-
-3)
+  1) $ cd Desktop
+  
+  2) $ git clone https://www.github.com/nigellipps/Java.git
+  
+Run the program:
+  
+  1) $ make
+  
+  2) $ make run
+  
+  Note: If the file path to 0ne1.wav is incorrect, the error will be in Game.java line 87.
